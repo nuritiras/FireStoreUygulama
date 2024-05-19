@@ -46,8 +46,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onFailure(@NonNull Exception e) {
                         binding.txtDurum.setTextColor(Color.parseColor("#ff1744"));
-                        binding.txtDurum.setText("Kullanıcı oluşturulamadı\n"+
-                                e.getLocalizedMessage());
+                        binding.txtDurum.setText("Kullanıcı oluşturulamadı\n"+ e.getLocalizedMessage());
                     }
                 });
     }
@@ -74,8 +73,7 @@ public class MainActivity extends AppCompatActivity {
                         @Override
                         public void onFailure(@NonNull Exception e) {
                             binding.txtDurum.setTextColor(Color.parseColor("#ff1744"));
-                            binding.txtDurum.setText("Giriş başarısız\n"+
-                                    e.getLocalizedMessage());
+                            binding.txtDurum.setText("Giriş başarısız\n"+ e.getLocalizedMessage());
                         }
                     });
         }
@@ -95,8 +93,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onFailure(@NonNull Exception e) {
                         binding.txtDurum.setTextColor(Color.parseColor("#ff1744"));
-                        binding.txtDurum.setText("Hatırlatma e-postası gönderilemedi\n"+
-                                e.getLocalizedMessage());
+                        binding.txtDurum.setText("Hatırlatma e-postası gönderilemedi\n"+ e.getLocalizedMessage());
                     }
                 });
     }
