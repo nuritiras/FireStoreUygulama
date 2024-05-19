@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "963522524062",
+    "firebase_url": "https://urunlerfirebase-2163f-default-rtdb.firebaseio.com",
+    "project_id": "urunlerfirebase-2163f",
+    "storage_bucket": "urunlerfirebase-2163f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963522524062:android:a9dea567eff454489f1c8f",
+        "android_client_info": {
+          "package_name": "com.example.uygulama8sayfa370"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSibiHDMWqAhGkTgZ1i0aT4eV--C7S0do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963522524062:android:145c5e70656e3cb89f1c8f",
+        "android_client_info": {
+          "package_name": "tr.com.nuritiras.urunlerfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSibiHDMWqAhGkTgZ1i0aT4eV--C7S0do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
