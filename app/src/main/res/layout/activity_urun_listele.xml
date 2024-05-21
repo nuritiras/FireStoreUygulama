@@ -7,4 +7,118 @@
     android:layout_height="match_parent"
     tools:context=".UrunListele">
 
+    <EditText
+        android:id="@+id/editTextNumberFiyat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="9dp"
+        android:ems="10"
+        android:hint="Fiyat giriniz:"
+        android:inputType="numberDecimal"
+        app:layout_constraintStart_toStartOf="@+id/editTextNumberAdet"
+        app:layout_constraintTop_toBottomOf="@+id/editTextNumberAdet" />
+
+    <EditText
+        android:id="@+id/editTextNumberAdet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="38dp"
+        android:ems="10"
+        android:hint="Adet giriniz:"
+        android:inputType="numberSigned"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextUrunAdi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:hint="Ürün adını giriniz:"
+        android:inputType="text"
+        app:layout_constraintStart_toStartOf="@+id/editTextNumberFiyat"
+        app:layout_constraintTop_toBottomOf="@+id/editTextNumberFiyat" />
+
+    <TextView
+        android:id="@+id/textViewUrunFiyati"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="48dp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/textViewUrunIsmi"
+        app:layout_constraintStart_toStartOf="@+id/textViewUrunIsmi" />
+
+    <TextView
+        android:id="@+id/textViewUrunAdedi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="34dp"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSignOut" />
+
+    <TextView
+        android:id="@+id/textViewUrunIsmi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="14dp"
+        android:layout_marginBottom="26dp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonGuncelle"
+        app:layout_constraintEnd_toStartOf="@+id/buttonGuncelle" />
+
+    <Button
+        android:id="@+id/buttonSignOut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:onClick="onClickSignOut"
+        android:text="Oturumu Kapat"
+        app:layout_constraintEnd_toStartOf="@+id/textViewUrunAdedi"
+        app:layout_constraintStart_toStartOf="@+id/textViewUrunAdedi"
+        app:layout_constraintTop_toBottomOf="@+id/buttonKaydet" />
+
+    <Button
+        android:id="@+id/buttonListele"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="37dp"
+        android:onClick="onClickListe"
+        android:text="Listele"
+        app:layout_constraintStart_toEndOf="@+id/buttonKaydet"
+        app:layout_constraintTop_toBottomOf="@+id/editTextUrunAdi" />
+
+    <Button
+        android:id="@+id/buttonKaydet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClickSave"
+        android:text="Kaydet"
+        app:layout_constraintBaseline_toBaselineOf="@+id/buttonListele"
+        app:layout_constraintStart_toStartOf="@+id/editTextUrunAdi" />
+
+    <Button
+        android:id="@+id/buttonSil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="101dp"
+        android:onClick="onClickDelete"
+        android:text="Sil"
+        app:layout_constraintBaseline_toBaselineOf="@+id/buttonGuncelle"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/buttonGuncelle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="31dp"
+        android:layout_marginBottom="84dp"
+        android:onClick="onClickUpdate"
+        android:text="Guncelle"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/buttonSil" />
 </androidx.constraintlayout.widget.ConstraintLayout>
