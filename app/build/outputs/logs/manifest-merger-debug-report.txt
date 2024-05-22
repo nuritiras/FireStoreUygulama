@@ -1,0 +1,790 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.databinding:viewbinding:8.4.1] /Users/nuritiras/.gradle/caches/transforms-4/8eecaf369e7b42f36c64066f8cecc9c8/transformed/viewbinding-8.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9885e3062a0d1009ea04d71494160db6/transformed/firebase-analytics-22.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.picasso:picasso:2.8] /Users/nuritiras/.gradle/caches/transforms-4/ca8636b3703361de51eb191e2036e455/transformed/picasso-2.8/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/nuritiras/.gradle/caches/transforms-4/faa867cafccd18f0dacf2dc429824b2f/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/nuritiras/.gradle/caches/transforms-4/2bbaa24c6c4448286feca24fe7d0ddaf/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nuritiras/.gradle/caches/transforms-4/4e10e5777f23e42e499ea94563a4afe1/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/nuritiras/.gradle/caches/transforms-4/8bb5ccb2b7f23c4c5ce8d39256b1dd09/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1c79d64e4b1e8aee08af11c65831d410/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/a15b4619eebf3dd8f85f0f9dddf64d0d/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/nuritiras/.gradle/caches/transforms-4/f846c43a39f0362bf75da38430e34547/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nuritiras/.gradle/caches/transforms-4/39a37b92628cf590a6da83e691d049ea/transformed/recaptcha-18.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/308351163c81a07fe21c9f6719ea87bb/transformed/integrity-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/nuritiras/.gradle/caches/transforms-4/6f217219b822cb0cdfa5aa7b5d990ce1/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/nuritiras/.gradle/caches/transforms-4/a75c6610493cadc72d45650fe7bf5d28/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4ddf56dd31cda6984f8e5621a043b922/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/39cf84dbb47cce0964f6a48a64127793/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/nuritiras/.gradle/caches/transforms-4/debc0e68bf8a5b041eca626987bd55a7/transformed/play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/nuritiras/.gradle/caches/transforms-4/0260bdab64cbc93604445aa612f31b7a/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/afde144f0863260e97b15d0c3698edfe/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/fbbf9ac09f1582d41501db6c4ca71049/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/66681dc755aaaa829d9fd31141d6d6c4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/453a426942d3ce2f9cd25072b20a1d90/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/nuritiras/.gradle/caches/transforms-4/4c5feb1f9e47b20a3e8f4845da81dcfe/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/b1b60ba1582c081d4d3bf0a2e19bf44e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/8a2e8b145e0a6241d65b06af99d84eb2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/6a1b1fda3fd9b6d68dd02ccde35203bd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/nuritiras/.gradle/caches/transforms-4/75b2ebf04ab8723bf1af6cfda6223a25/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/5486ec2af863e9772ee1ba3b8ec5240f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9d249959be13c4f7390cc165e957750d/transformed/play-services-measurement-sdk-22.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/nuritiras/.gradle/caches/transforms-4/5feea6ffe1028bd7c6d17423e4740c63/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4d522cfa4b69ff51f0984b4974cdcc95/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/57ef2b9ec8502f40d1047069b135647d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/bd5a6ccf343e72aa4c1c6cfc65aae7fc/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/58cc09d3bc655ca3ecce6e4e46c21e3e/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/nuritiras/.gradle/caches/transforms-4/464e0c7e78fd6a57d5ebf16dcde9ddb6/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nuritiras/.gradle/caches/transforms-4/1743acd19d8ffce861235c3bac7d424c/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/442ba6a7e6d05c6d0d399623f9e7c44b/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/fb4cf22a271f7aea5c8e6ebde5e24bd4/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/1f012083b2c451e2f9b4c89e13db5a4e/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/d8c7fb4ea924dcf89f098d2c0c7caab7/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/194fd2ba8960244f16f5804861e28d09/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/e4d21fd7217f257eac2c051da71a3713/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/f38e09601313ec592bb8ea0d0e871e6a/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nuritiras/.gradle/caches/transforms-4/a3a8d1a3de4192eea0925c6525f3430f/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/nuritiras/.gradle/caches/transforms-4/8d2c45369779fb45159398d9b518b2b4/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/nuritiras/.gradle/caches/transforms-4/3f66dc5ceb888510fe0e8fe694ff40dc/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9c50b22f4ab606571ffb0c906dc8e967/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1ea7d63ef01be76ad6cd6d6ea0ee25cb/transformed/play-services-measurement-base-22.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/nuritiras/.gradle/caches/transforms-4/d24a6df67e9d6dab941ccbf90bbee0ae/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/nuritiras/.gradle/caches/transforms-4/4c3cd4edf39edb47e988c538cf7301c6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nuritiras/.gradle/caches/transforms-4/260bc601cdac2e5575367de97617282c/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.0] /Users/nuritiras/.gradle/caches/transforms-4/f37ba2cb0a34e49d7942d6b513a68137/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/47a3aa7c9d2e50eb6328ed4b4662b3a5/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/24c14b5a12682a8b11e8d2234e7f4987/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/8e827128c5709d0accfad9be7b369e81/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/b67fdd9e0e08068951fef73b107add8c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/65005db748a9366c9f584166ec845b89/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/d66acb4e251b6748c20c9eb6c2230779/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/8edc73788015ff0f3826eb5b7fb9a44b/transformed/firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/116cc584bef15983ea0f6088cca57d04/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f5e04ce04b45111a33f488d9a467108d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/6b678ed50cdb2cfbbe92038a3bf04cd3/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/830c929bbeb946fd186e1054f417d89a/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nuritiras/.gradle/caches/transforms-4/3a29fd318e7e164a1ec151ec2900c732/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/nuritiras/.gradle/caches/transforms-4/a0d14837a4f7ff8ce4c42d3a7abca9e7/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/4ecd6af208874564a2de3954450a0451/transformed/googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/nuritiras/.gradle/caches/transforms-4/0c57e964b2dfe7e80210ae6eadb5d5c7/transformed/grpc-android-1.57.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/546c6fc164a5995e88ce439a339bee19/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:5:5-27:19
+INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9885e3062a0d1009ea04d71494160db6/transformed/firebase-analytics-22.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9885e3062a0d1009ea04d71494160db6/transformed/firebase-analytics-22.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.picasso:picasso:2.8] /Users/nuritiras/.gradle/caches/transforms-4/ca8636b3703361de51eb191e2036e455/transformed/picasso-2.8/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.8] /Users/nuritiras/.gradle/caches/transforms-4/ca8636b3703361de51eb191e2036e455/transformed/picasso-2.8/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/nuritiras/.gradle/caches/transforms-4/faa867cafccd18f0dacf2dc429824b2f/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/nuritiras/.gradle/caches/transforms-4/faa867cafccd18f0dacf2dc429824b2f/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/nuritiras/.gradle/caches/transforms-4/2bbaa24c6c4448286feca24fe7d0ddaf/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/nuritiras/.gradle/caches/transforms-4/2bbaa24c6c4448286feca24fe7d0ddaf/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:13:5-24:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/308351163c81a07fe21c9f6719ea87bb/transformed/integrity-1.2.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/308351163c81a07fe21c9f6719ea87bb/transformed/integrity-1.2.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/nuritiras/.gradle/caches/transforms-4/6f217219b822cb0cdfa5aa7b5d990ce1/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/nuritiras/.gradle/caches/transforms-4/6f217219b822cb0cdfa5aa7b5d990ce1/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/nuritiras/.gradle/caches/transforms-4/a75c6610493cadc72d45650fe7bf5d28/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/nuritiras/.gradle/caches/transforms-4/a75c6610493cadc72d45650fe7bf5d28/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4ddf56dd31cda6984f8e5621a043b922/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4ddf56dd31cda6984f8e5621a043b922/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/nuritiras/.gradle/caches/transforms-4/debc0e68bf8a5b041eca626987bd55a7/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/nuritiras/.gradle/caches/transforms-4/debc0e68bf8a5b041eca626987bd55a7/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/afde144f0863260e97b15d0c3698edfe/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/afde144f0863260e97b15d0c3698edfe/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9d249959be13c4f7390cc165e957750d/transformed/play-services-measurement-sdk-22.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9d249959be13c4f7390cc165e957750d/transformed/play-services-measurement-sdk-22.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/nuritiras/.gradle/caches/transforms-4/5feea6ffe1028bd7c6d17423e4740c63/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/nuritiras/.gradle/caches/transforms-4/5feea6ffe1028bd7c6d17423e4740c63/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nuritiras/.gradle/caches/transforms-4/1743acd19d8ffce861235c3bac7d424c/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nuritiras/.gradle/caches/transforms-4/1743acd19d8ffce861235c3bac7d424c/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/1f012083b2c451e2f9b4c89e13db5a4e/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/1f012083b2c451e2f9b4c89e13db5a4e/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/nuritiras/.gradle/caches/transforms-4/3f66dc5ceb888510fe0e8fe694ff40dc/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/nuritiras/.gradle/caches/transforms-4/3f66dc5ceb888510fe0e8fe694ff40dc/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9c50b22f4ab606571ffb0c906dc8e967/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9c50b22f4ab606571ffb0c906dc8e967/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1ea7d63ef01be76ad6cd6d6ea0ee25cb/transformed/play-services-measurement-base-22.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1ea7d63ef01be76ad6cd6d6ea0ee25cb/transformed/play-services-measurement-base-22.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/nuritiras/.gradle/caches/transforms-4/d24a6df67e9d6dab941ccbf90bbee0ae/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/nuritiras/.gradle/caches/transforms-4/d24a6df67e9d6dab941ccbf90bbee0ae/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/nuritiras/.gradle/caches/transforms-4/4c3cd4edf39edb47e988c538cf7301c6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/nuritiras/.gradle/caches/transforms-4/4c3cd4edf39edb47e988c538cf7301c6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/b67fdd9e0e08068951fef73b107add8c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/b67fdd9e0e08068951fef73b107add8c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/116cc584bef15983ea0f6088cca57d04/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/116cc584bef15983ea0f6088cca57d04/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:13:9-55
+	android:dataExtractionRules
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.example.uygulama8sayfa370.UrunListele
+ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:16:13-40
+activity#com.example.uygulama8sayfa370.MainActivity
+ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:exported
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.4.1] /Users/nuritiras/.gradle/caches/transforms-4/8eecaf369e7b42f36c64066f8cecc9c8/transformed/viewbinding-8.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.4.1] /Users/nuritiras/.gradle/caches/transforms-4/8eecaf369e7b42f36c64066f8cecc9c8/transformed/viewbinding-8.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9885e3062a0d1009ea04d71494160db6/transformed/firebase-analytics-22.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9885e3062a0d1009ea04d71494160db6/transformed/firebase-analytics-22.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.8] /Users/nuritiras/.gradle/caches/transforms-4/ca8636b3703361de51eb191e2036e455/transformed/picasso-2.8/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.8] /Users/nuritiras/.gradle/caches/transforms-4/ca8636b3703361de51eb191e2036e455/transformed/picasso-2.8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/nuritiras/.gradle/caches/transforms-4/faa867cafccd18f0dacf2dc429824b2f/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/nuritiras/.gradle/caches/transforms-4/faa867cafccd18f0dacf2dc429824b2f/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/nuritiras/.gradle/caches/transforms-4/2bbaa24c6c4448286feca24fe7d0ddaf/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/nuritiras/.gradle/caches/transforms-4/2bbaa24c6c4448286feca24fe7d0ddaf/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nuritiras/.gradle/caches/transforms-4/4e10e5777f23e42e499ea94563a4afe1/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nuritiras/.gradle/caches/transforms-4/4e10e5777f23e42e499ea94563a4afe1/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/nuritiras/.gradle/caches/transforms-4/8bb5ccb2b7f23c4c5ce8d39256b1dd09/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/nuritiras/.gradle/caches/transforms-4/8bb5ccb2b7f23c4c5ce8d39256b1dd09/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1c79d64e4b1e8aee08af11c65831d410/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1c79d64e4b1e8aee08af11c65831d410/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:6:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/a15b4619eebf3dd8f85f0f9dddf64d0d/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/a15b4619eebf3dd8f85f0f9dddf64d0d/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/nuritiras/.gradle/caches/transforms-4/f846c43a39f0362bf75da38430e34547/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/nuritiras/.gradle/caches/transforms-4/f846c43a39f0362bf75da38430e34547/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nuritiras/.gradle/caches/transforms-4/39a37b92628cf590a6da83e691d049ea/transformed/recaptcha-18.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nuritiras/.gradle/caches/transforms-4/39a37b92628cf590a6da83e691d049ea/transformed/recaptcha-18.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/308351163c81a07fe21c9f6719ea87bb/transformed/integrity-1.2.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/308351163c81a07fe21c9f6719ea87bb/transformed/integrity-1.2.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/nuritiras/.gradle/caches/transforms-4/6f217219b822cb0cdfa5aa7b5d990ce1/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/nuritiras/.gradle/caches/transforms-4/6f217219b822cb0cdfa5aa7b5d990ce1/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/nuritiras/.gradle/caches/transforms-4/a75c6610493cadc72d45650fe7bf5d28/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/nuritiras/.gradle/caches/transforms-4/a75c6610493cadc72d45650fe7bf5d28/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4ddf56dd31cda6984f8e5621a043b922/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4ddf56dd31cda6984f8e5621a043b922/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/39cf84dbb47cce0964f6a48a64127793/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/39cf84dbb47cce0964f6a48a64127793/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/nuritiras/.gradle/caches/transforms-4/debc0e68bf8a5b041eca626987bd55a7/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/nuritiras/.gradle/caches/transforms-4/debc0e68bf8a5b041eca626987bd55a7/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/nuritiras/.gradle/caches/transforms-4/0260bdab64cbc93604445aa612f31b7a/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/nuritiras/.gradle/caches/transforms-4/0260bdab64cbc93604445aa612f31b7a/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/afde144f0863260e97b15d0c3698edfe/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/afde144f0863260e97b15d0c3698edfe/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/fbbf9ac09f1582d41501db6c4ca71049/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/fbbf9ac09f1582d41501db6c4ca71049/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/66681dc755aaaa829d9fd31141d6d6c4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/66681dc755aaaa829d9fd31141d6d6c4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/453a426942d3ce2f9cd25072b20a1d90/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/453a426942d3ce2f9cd25072b20a1d90/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/nuritiras/.gradle/caches/transforms-4/4c5feb1f9e47b20a3e8f4845da81dcfe/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/nuritiras/.gradle/caches/transforms-4/4c5feb1f9e47b20a3e8f4845da81dcfe/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/b1b60ba1582c081d4d3bf0a2e19bf44e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/b1b60ba1582c081d4d3bf0a2e19bf44e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/8a2e8b145e0a6241d65b06af99d84eb2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/8a2e8b145e0a6241d65b06af99d84eb2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/6a1b1fda3fd9b6d68dd02ccde35203bd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/6a1b1fda3fd9b6d68dd02ccde35203bd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/nuritiras/.gradle/caches/transforms-4/75b2ebf04ab8723bf1af6cfda6223a25/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/nuritiras/.gradle/caches/transforms-4/75b2ebf04ab8723bf1af6cfda6223a25/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/5486ec2af863e9772ee1ba3b8ec5240f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/5486ec2af863e9772ee1ba3b8ec5240f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9d249959be13c4f7390cc165e957750d/transformed/play-services-measurement-sdk-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9d249959be13c4f7390cc165e957750d/transformed/play-services-measurement-sdk-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/nuritiras/.gradle/caches/transforms-4/5feea6ffe1028bd7c6d17423e4740c63/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/nuritiras/.gradle/caches/transforms-4/5feea6ffe1028bd7c6d17423e4740c63/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4d522cfa4b69ff51f0984b4974cdcc95/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4d522cfa4b69ff51f0984b4974cdcc95/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/57ef2b9ec8502f40d1047069b135647d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/57ef2b9ec8502f40d1047069b135647d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/bd5a6ccf343e72aa4c1c6cfc65aae7fc/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/bd5a6ccf343e72aa4c1c6cfc65aae7fc/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/58cc09d3bc655ca3ecce6e4e46c21e3e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/58cc09d3bc655ca3ecce6e4e46c21e3e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/nuritiras/.gradle/caches/transforms-4/464e0c7e78fd6a57d5ebf16dcde9ddb6/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/nuritiras/.gradle/caches/transforms-4/464e0c7e78fd6a57d5ebf16dcde9ddb6/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nuritiras/.gradle/caches/transforms-4/1743acd19d8ffce861235c3bac7d424c/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nuritiras/.gradle/caches/transforms-4/1743acd19d8ffce861235c3bac7d424c/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/442ba6a7e6d05c6d0d399623f9e7c44b/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/442ba6a7e6d05c6d0d399623f9e7c44b/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/fb4cf22a271f7aea5c8e6ebde5e24bd4/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/fb4cf22a271f7aea5c8e6ebde5e24bd4/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/1f012083b2c451e2f9b4c89e13db5a4e/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/1f012083b2c451e2f9b4c89e13db5a4e/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/d8c7fb4ea924dcf89f098d2c0c7caab7/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/d8c7fb4ea924dcf89f098d2c0c7caab7/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/194fd2ba8960244f16f5804861e28d09/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/194fd2ba8960244f16f5804861e28d09/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/e4d21fd7217f257eac2c051da71a3713/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/e4d21fd7217f257eac2c051da71a3713/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/f38e09601313ec592bb8ea0d0e871e6a/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/f38e09601313ec592bb8ea0d0e871e6a/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nuritiras/.gradle/caches/transforms-4/a3a8d1a3de4192eea0925c6525f3430f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nuritiras/.gradle/caches/transforms-4/a3a8d1a3de4192eea0925c6525f3430f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/nuritiras/.gradle/caches/transforms-4/8d2c45369779fb45159398d9b518b2b4/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/nuritiras/.gradle/caches/transforms-4/8d2c45369779fb45159398d9b518b2b4/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/nuritiras/.gradle/caches/transforms-4/3f66dc5ceb888510fe0e8fe694ff40dc/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/nuritiras/.gradle/caches/transforms-4/3f66dc5ceb888510fe0e8fe694ff40dc/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9c50b22f4ab606571ffb0c906dc8e967/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9c50b22f4ab606571ffb0c906dc8e967/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1ea7d63ef01be76ad6cd6d6ea0ee25cb/transformed/play-services-measurement-base-22.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1ea7d63ef01be76ad6cd6d6ea0ee25cb/transformed/play-services-measurement-base-22.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/nuritiras/.gradle/caches/transforms-4/d24a6df67e9d6dab941ccbf90bbee0ae/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/nuritiras/.gradle/caches/transforms-4/d24a6df67e9d6dab941ccbf90bbee0ae/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/nuritiras/.gradle/caches/transforms-4/4c3cd4edf39edb47e988c538cf7301c6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/nuritiras/.gradle/caches/transforms-4/4c3cd4edf39edb47e988c538cf7301c6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nuritiras/.gradle/caches/transforms-4/260bc601cdac2e5575367de97617282c/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nuritiras/.gradle/caches/transforms-4/260bc601cdac2e5575367de97617282c/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.0] /Users/nuritiras/.gradle/caches/transforms-4/f37ba2cb0a34e49d7942d6b513a68137/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/nuritiras/.gradle/caches/transforms-4/f37ba2cb0a34e49d7942d6b513a68137/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/47a3aa7c9d2e50eb6328ed4b4662b3a5/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/47a3aa7c9d2e50eb6328ed4b4662b3a5/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/24c14b5a12682a8b11e8d2234e7f4987/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/24c14b5a12682a8b11e8d2234e7f4987/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/8e827128c5709d0accfad9be7b369e81/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/8e827128c5709d0accfad9be7b369e81/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/b67fdd9e0e08068951fef73b107add8c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/b67fdd9e0e08068951fef73b107add8c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/65005db748a9366c9f584166ec845b89/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/65005db748a9366c9f584166ec845b89/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/d66acb4e251b6748c20c9eb6c2230779/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/d66acb4e251b6748c20c9eb6c2230779/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/8edc73788015ff0f3826eb5b7fb9a44b/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/8edc73788015ff0f3826eb5b7fb9a44b/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/116cc584bef15983ea0f6088cca57d04/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/116cc584bef15983ea0f6088cca57d04/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f5e04ce04b45111a33f488d9a467108d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f5e04ce04b45111a33f488d9a467108d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/6b678ed50cdb2cfbbe92038a3bf04cd3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/6b678ed50cdb2cfbbe92038a3bf04cd3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/830c929bbeb946fd186e1054f417d89a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nuritiras/.gradle/caches/transforms-4/830c929bbeb946fd186e1054f417d89a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nuritiras/.gradle/caches/transforms-4/3a29fd318e7e164a1ec151ec2900c732/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nuritiras/.gradle/caches/transforms-4/3a29fd318e7e164a1ec151ec2900c732/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/nuritiras/.gradle/caches/transforms-4/a0d14837a4f7ff8ce4c42d3a7abca9e7/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/nuritiras/.gradle/caches/transforms-4/a0d14837a4f7ff8ce4c42d3a7abca9e7/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/4ecd6af208874564a2de3954450a0451/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/nuritiras/.gradle/caches/transforms-4/4ecd6af208874564a2de3954450a0451/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/nuritiras/.gradle/caches/transforms-4/0c57e964b2dfe7e80210ae6eadb5d5c7/transformed/grpc-android-1.57.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/nuritiras/.gradle/caches/transforms-4/0c57e964b2dfe7e80210ae6eadb5d5c7/transformed/grpc-android-1.57.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/546c6fc164a5995e88ce439a339bee19/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/546c6fc164a5995e88ce439a339bee19/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nuritiras/AndroidStudioProjects/Uygulama8Sayfa370/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.8] /Users/nuritiras/.gradle/caches/transforms-4/ca8636b3703361de51eb191e2036e455/transformed/picasso-2.8/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.8] /Users/nuritiras/.gradle/caches/transforms-4/ca8636b3703361de51eb191e2036e455/transformed/picasso-2.8/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.8] /Users/nuritiras/.gradle/caches/transforms-4/ca8636b3703361de51eb191e2036e455/transformed/picasso-2.8/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.8] /Users/nuritiras/.gradle/caches/transforms-4/ca8636b3703361de51eb191e2036e455/transformed/picasso-2.8/AndroidManifest.xml:9:13-64
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nuritiras/.gradle/caches/transforms-4/39a37b92628cf590a6da83e691d049ea/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nuritiras/.gradle/caches/transforms-4/39a37b92628cf590a6da83e691d049ea/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nuritiras/.gradle/caches/transforms-4/39a37b92628cf590a6da83e691d049ea/transformed/recaptcha-18.4.0/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nuritiras/.gradle/caches/transforms-4/39a37b92628cf590a6da83e691d049ea/transformed/recaptcha-18.4.0/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/nuritiras/.gradle/caches/transforms-4/0c57e964b2dfe7e80210ae6eadb5d5c7/transformed/grpc-android-1.57.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/nuritiras/.gradle/caches/transforms-4/0c57e964b2dfe7e80210ae6eadb5d5c7/transformed/grpc-android-1.57.2/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4ddf56dd31cda6984f8e5621a043b922/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4ddf56dd31cda6984f8e5621a043b922/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/nuritiras/.gradle/caches/transforms-4/0c0dc7d2d78e6565a8f676b5f809d94c/transformed/firebase-auth-23.0.0/AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/nuritiras/.gradle/caches/transforms-4/dea562de893e5ee12d3635c8c57095d5/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:21:17-111
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/nuritiras/.gradle/caches/transforms-4/c224cdf7ea30b4a638dab92b3fde92cd/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/nuritiras/.gradle/caches/transforms-4/1917768df9a5b083a5be486f0013671e/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nuritiras/.gradle/caches/transforms-4/39a37b92628cf590a6da83e691d049ea/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nuritiras/.gradle/caches/transforms-4/39a37b92628cf590a6da83e691d049ea/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:22-95
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9c50b22f4ab606571ffb0c906dc8e967/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/9c50b22f4ab606571ffb0c906dc8e967/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/f25ef7b1e2cd9548fbe7d31492d64e98/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:27:22-79
+property#android.adservices.AD_SERVICES_CONFIG
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/cc800c91bc9fcaaf87b7472ed4375159/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/nuritiras/.gradle/caches/transforms-4/e02abdddb5ac45c38ffcbf0554560d49/transformed/firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4ddf56dd31cda6984f8e5621a043b922/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4ddf56dd31cda6984f8e5621a043b922/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/4ddf56dd31cda6984f8e5621a043b922/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/nuritiras/.gradle/caches/transforms-4/945d20b4e0e17c54ad07ca2f962819cc/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/afde144f0863260e97b15d0c3698edfe/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/afde144f0863260e97b15d0c3698edfe/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/afde144f0863260e97b15d0c3698edfe/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/nuritiras/.gradle/caches/transforms-4/afde144f0863260e97b15d0c3698edfe/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/1f012083b2c451e2f9b4c89e13db5a4e/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/1f012083b2c451e2f9b4c89e13db5a4e/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/b67fdd9e0e08068951fef73b107add8c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nuritiras/.gradle/caches/transforms-4/b67fdd9e0e08068951fef73b107add8c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nuritiras/.gradle/caches/transforms-4/769297da413dfc6fc66d071bb2823893/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/031db932dab359db4263d146aed8e554/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/nuritiras/.gradle/caches/transforms-4/1bb91e6e29cf1a5ced90c42b76ed9724/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:40:13-87
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nuritiras/.gradle/caches/transforms-4/1743acd19d8ffce861235c3bac7d424c/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nuritiras/.gradle/caches/transforms-4/1743acd19d8ffce861235c3bac7d424c/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nuritiras/.gradle/caches/transforms-4/1743acd19d8ffce861235c3bac7d424c/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.example.uygulama8sayfa370.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.uygulama8sayfa370.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/nuritiras/.gradle/caches/transforms-4/66abd899db1bb79222e877a81560af63/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/1f012083b2c451e2f9b4c89e13db5a4e/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/1f012083b2c451e2f9b4c89e13db5a4e/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nuritiras/.gradle/caches/transforms-4/1f012083b2c451e2f9b4c89e13db5a4e/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/nuritiras/.gradle/caches/transforms-4/4c3cd4edf39edb47e988c538cf7301c6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/nuritiras/.gradle/caches/transforms-4/4c3cd4edf39edb47e988c538cf7301c6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/nuritiras/.gradle/caches/transforms-4/4c3cd4edf39edb47e988c538cf7301c6/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nuritiras/.gradle/caches/transforms-4/1516985476d39b608b76233413db7869/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

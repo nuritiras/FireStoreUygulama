@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnGiris"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="27dp"
+        android:onClick="girisOnClick"
+        android:text="Giriş"
+        app:cornerRadius="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnKayit"
+        app:layout_constraintStart_toStartOf="@+id/btnKayit"
+        app:layout_constraintTop_toBottomOf="@+id/editSifre" />
+
+    <Button
+        android:id="@+id/btnKayit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="29dp"
+        android:layout_marginBottom="23dp"
+        android:onClick="kaydetOnClick"
+        android:text="Kaydet"
+        app:cornerRadius="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnSifremiUnuttum"
+        app:layout_constraintEnd_toEndOf="@+id/btnSifremiUnuttum"
+        app:layout_constraintTop_toBottomOf="@+id/btnGiris" />
+
+    <Button
+        android:id="@+id/btnSifremiUnuttum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="71dp"
+        android:onClick="sifremiUnuttumOnClick"
+        android:text="Şifremi Unuttum"
+        app:cornerRadius="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/txtDurum"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnKayit" />
+
+    <EditText
+        android:id="@+id/editEposta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="51dp"
+        android:layout_marginBottom="35dp"
+        android:ems="10"
+        android:hint="E-Posta:"
+        android:inputType="textEmailAddress"
+        app:layout_constraintBottom_toTopOf="@+id/editSifre"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editSifre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+        android:ems="10"
+        android:hint="Parola:"
+        android:inputType="textPassword"
+        app:layout_constraintBottom_toTopOf="@+id/btnGiris"
+        app:layout_constraintStart_toStartOf="@+id/editEposta"
+        app:layout_constraintTop_toBottomOf="@+id/editEposta" />
+
+    <TextView
+        android:id="@+id/txtDurum"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="19dp"
+        android:layout_marginEnd="19dp"
+        android:layout_marginBottom="18dp"
+        android:text="Durum:"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnSifremiUnuttum" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
